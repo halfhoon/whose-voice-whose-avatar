@@ -1,0 +1,23 @@
+[SUBJECT]
+2D pixel art game character, single person, [male/female].
+Super-deformed (SD) proportions, large head, compact body.
+Anime-inspired large eyes.
+
+[FRAMING / POSE]
+Full body visible, standing upright.
+Neutral standing pose, arms relaxed at sides, no gestures.
+Facing directly forward, centered composition. Neutral expression.
+
+[STYLE / RENDER]
+High-quality 2D pixel art sprite (e.g., MapleStory).
+SD pixel art with detailed shading.
+Visible pixels, clean outlines, vibrant colors.
+
+[BACKGROUND / LIGHTING]
+Solid neutral gray background (#B0B0B0). Flat lighting.
+
+[WARDROBE]
+Plain gray t-shirt (#808080). Plain black trousers.
+
+[CONSTRAINTS]
+No accessories, no props, no text, no logos. Non-sexualized.

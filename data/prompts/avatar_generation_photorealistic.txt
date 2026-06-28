@@ -1,0 +1,23 @@
+[SUBJECT]
+AAA video game character, single person, [male/female], young adult (20-29).
+
+[FRAMING / POSE]
+Portrait cropped at knees; upper body and thighs visible.
+Neutral standing pose, arms relaxed at sides, no gestures.
+Facing directly forward; body and face straight toward camera.
+Symmetrical pose, centered composition. Neutral expression, mouth closed.
+
+[STYLE / RENDER]
+Game-ready 3D character render, PBR materials, stylized realism, high detail.
+
+[BACKGROUND / LIGHTING]
+Solid neutral gray background (#B0B0B0).
+Soft, even, neutral studio lighting.
+
+[WARDROBE]
+Plain crew-neck t-shirt, medium neutral gray (#808080).
+Plain solid black trousers (smooth fabric).
+
+[CONSTRAINTS]
+No accessories, no props, no text, no logos, no watermark.
+Average body proportions, non-sexualized.

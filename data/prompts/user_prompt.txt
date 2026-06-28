@@ -1,0 +1,4 @@
+[Situation]
+{situation}
+
+The two avatars are presented simultaneously with no priority.

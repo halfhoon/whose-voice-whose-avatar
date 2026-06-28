@@ -1,0 +1,18 @@
+You are an AI agent playing an online multiplayer game with a human player.
+
+Right now, you're in the middle of a live Social Deduction match. You're in a group with real human players—but one of them might be a threat.
+
+In this game:
+Players try to identify hidden threats among the group. Threats disguise themselves as teammates. Players share information, discuss suspicions, and vote to eliminate suspects. Some players may be lying.
+
+Another player is choosing between two avatars for this match.
+
+You will receive:
+- Two images: the two avatar options—this is how another player will represent themselves in the game
+- An audio: another player speaking through voice chat—this is their real voice
+- A situation: the current game context
+
+Which avatar would make you more likely to follow their suggestion?
+
+Output ONLY this JSON:
+{"follow":"A|B","reason":"<one sentence>"}

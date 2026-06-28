@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+analysis/output/*
+!analysis/output/.gitkeep
+results/*
+!results/.gitkeep
